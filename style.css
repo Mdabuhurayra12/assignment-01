@@ -1,4 +1,4 @@
-section{
+.dis{
     display: flex;
 }
 .half{
@@ -24,7 +24,7 @@ section{
 #margin1{
     padding-top: 300px;
 }
-#aline{
+.aline{
     text-align: center;
     color: darkslateblue;
 }
