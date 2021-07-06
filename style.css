@@ -1,0 +1,38 @@
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 10px;
+}
+.half img{
+    width: 70%;
+}
+#margin{
+    margin-top: 150px;
+}
+.tp{
+    margin-top: 50px;
+}
+.orange{
+    color: coral;
+}
+.top{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#margin1{
+    padding-top: 300px;
+}
+#aline{
+    text-align: center;
+    color: darkslateblue;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    font-weight: 800;
+    padding: 12px 54px;
+    color: beige;
+    border-radius: 8px;
+}
