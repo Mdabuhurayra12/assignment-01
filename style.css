@@ -36,3 +36,14 @@
     color: beige;
     border-radius: 8px;
 }
+.box{
+    box-shadow: 5px 8px 44px;
+    width: 22%;
+    margin-left: 5%;
+    margin-right: 7%;
+    padding: 20px;
+    border-radius: 8%;
+}
+.focus{
+    padding-left: 33px;
+}
