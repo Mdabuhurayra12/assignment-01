@@ -47,3 +47,9 @@
 .focus{
     padding-left: 33px;
 }
+#final{
+    background-color: aquamarine;
+    margin: 25px 20px;
+    border-radius: 3px;
+    padding: 10px 100px;
+}
